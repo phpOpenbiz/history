@@ -16,19 +16,50 @@ Agus Suhartono trying to revive this project on Github
 
 
 
-### 2005-11-03 
+### November 3 2005
 Oldes phpOpenbiz website and forum
 - Website : https://web.archive.org/web/20051103051156/http://www.phpopenbiz.org/document/
 - Forum : https://web.archive.org/web/20051103034255/http://p2.forumforfree.com/obhelp.html
 
-### 2005-10-26
-phpOpenbiz 2.0 Release
 
-### 2005-08-08
-phpOpenbiz 2.0beta Release
 
-### 2005-05-31
-phpOpenbiz 2.0alpha Release
+
+From [https://web.archive.org/web/20051103053400/http://www.phpopenbiz.org/document/release.html]
+
+### Oct 26 2005
+#### Openbiz 2.0 is released. Openbiz eclipse plugin 0.9.2 is released with 2.0. 
+Openbiz 2.0 includes mainly bug fixes and more details in openbiz manual. 
+
+### Sep 29 2005 
+#### Openbiz 2.0 RC2 is released. 
+RC2 still works with Openbiz Eclipse plugin 0.9.1. Changs of Openbiz 2.0 RC2 from 2.0 RC1:
+
+* New project structure to separate openbiz core library and applications
+ - Openbiz core library
+ - demo application
+ - Openbiz developers need to reorganize your application specific code
+* More bugs fixed
+
+
+### Sep 15 2005
+#### Openbiz 2.0 RC1 is released. 
+RC1 still works with Openbiz Eclipse plugin 0.9.1. Changs of Openbiz 2.0 RC1 from 2.0 beta 2:
+
+* New security model is added in openbiz architecture
+ - User authentication
+ - Role-based view access control
+ - Attribute-based data access control
+* More plugin services included in the package
+* To work this release with Openbiz Eclipse plugin 0.9.1, please download BizDataObjProfile.xml and put it under org.openbiz.metadata_0.9.1/config directory.
+
+
+### Aug 22 2005 
+#### Openbiz 2.0 beta 2 is released. 
+Beta 2 still works with Openbiz Eclipse plugin 0.9.1. Changs of Openbiz 2.0 beta 2 from 2.0 beta:
+
+* Fix bugs of running openbiz on Unix/Linux OS.
+* Fix bug of binding dynamic list (Table column) to comboBox
+
 
 ### Aug 08 2005
 #### Openbiz 2.0 beta is released. 

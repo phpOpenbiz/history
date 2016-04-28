@@ -13,6 +13,24 @@ Now, Agus Suhartono (@agussuhartono) that join as phpOpenbiz contributor since 2
 
 This document contain history of phpOpenbiz that we are can collect.
 
+Repositoies
+-----------
+https://github.com/phpopenbiz
+https://github.com/openbiz (JavaScript)
+https://github.com/rockycubi
+https://code.google.com/archive/p/openbiz-cubi
+https://sourceforge.net/projects/bigchef/
+
+
+Websites :
+----------
+https://web.archive.org/web/20121101065618/http://www.phpopenbiz.org/home/developer/cubi.php
+https://web.archive.org/web/20120920012847/http://www.phpopenbiz.org/jim/
+https://web.archive.org/web/20070216011157/http://www.phpopenbiz.org/jim/
+https://web.archive.org/web/20051103053400/http://www.phpopenbiz.org/document/release.html
+https://web.archive.org/web/20051103051156/http://www.phpopenbiz.org/document/
+
+
 ##Timeline
 
 Following old information we get from Archive.org 

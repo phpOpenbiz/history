@@ -30,7 +30,19 @@ phpOpenbiz 2.0beta Release
 ### 2005-05-31
 phpOpenbiz 2.0alpha Release
 
-### (October 02 2004) 
+### February 02 2005
+#### Openbiz 1.2 beta is released. 
+Important features in Openbiz 1.2:
+
+* Fully support PHP5. Cannot run on PHP4 engine.
+* A new BizSystem class to provide a common application infrastructure layer
+* Most code is rewritten and reorganized to present better classed hierarchy.
+* Keep the same functionalities and metadata as 1.1.1. Upgrading is trivial work.
+
+#### Openbiz 1.1.1 fix pack is released. 
+It is mainly bug-fixing release. Please upzip the php files under openbiz_root/bin directory.
+
+### October 02 2004
 Openbiz 1.1.1 is released. Important changes from Openbiz 1.1:
 
 * Metadata inheritance.
@@ -41,7 +53,7 @@ Openbiz 1.1.1 is released. Important changes from Openbiz 1.1:
 * HTML ComboBox and table column binding
 * Composite key support in BizObj
 
-### (August 06 2004) 
+### August 06 2004
 Openbiz 1.1 is released. Important changes from Openbiz 1.1 beta:
 
 - Allow users to specify 3rd party package directories in sysheader.inc file.
@@ -55,32 +67,32 @@ Openbiz 1.1 is released. Important changes from Openbiz 1.1 beta:
 
 Download Openbiz 1.1 patch [link dead] to fix smarty setting and AccessValidate errors. Download Openbiz 1.1 composite key enhancement [link dead] to support composite keys. 
 
-### (July 04 2004) 
+### July 04 2004 
 Openbiz 1.1 beta is released. Jumping from 1.02 beta to 1.1 beta is due to the significant changes:
 
 - All metadata files are organized by packages so that metadata files for big application can be stored in different directories. 
 - Easy plug-in service interface to invoke customer-specified functions.
 - Long-expected PDF report and Excel export support are added as plug-in services.
 
-### (June 14 2004) 
+### June 14 2004
 Openbiz 1.02 beta is released. More efficient session management is introduced to reduce the session file size (save memory usage if you map session directory to memory). Building multiple-database application is supported.
 
-### (May 22 2004) 
+### May 22 2004
 Openbiz 1.01 is released. More flexibility is added by introducing OtherSQLRule and support SQL functions in BizObj. View access control is easier to use than before. To answer customers questions, a FAQ page is available on Openbiz website.
 
-### (April 24 2004) 
+### April 24 2004
 Openbiz 1.01RC is released. Compiled config files feature is introduced.
 
 Every *.xml file is compiled to *.cmp file which is a serialized array, reading config file is just unserializing *.cmp file instead of parsing it with domxml. This feature is very important to use openbiz on a web-hosting site where you don't have permission to enable php extensions. Meanwhile loading the *.cmp config file is 50% faster than parsing it with domxml. But in order to use Design Studio, you still need enable domxml php extension.
 
-### 2004-04-18
+### April 18 2004
 2 main new features are added in B10110 release.
 
 - Openbiz windows installer works with AppServ (install Appache + PHP). It can help you install source code + Demo database and enable mmcache + domxml extensions.
 - BizFormTree class is new to present the tree hierarchy of a database table. Please see maual for detail. Meanwhile demo is rewritten to cover more features.
 - To fix a Mozilla/Netscape bug, please download the patch as well, copy the clientUtil.js to the root of openbiz.
 
-### 2004-02-29 (Feb 29 2004) 
+### February 29 2004
 Some BizForm improvement added in B10109 to give more convenience and flexibility in writing templates. Please view change log for detail. Updating BizForm and BizObj xml schema is needed. To see the demo, please reapply gendb.sql to demo database. Design Studio performance issue is solved in B10109.
 
 ### OpenBiz 1.01 B10108  (Date unknown)

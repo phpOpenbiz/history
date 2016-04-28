@@ -30,6 +30,36 @@ phpOpenbiz 2.0beta Release
 ### 2005-05-31
 phpOpenbiz 2.0alpha Release
 
+### Aug 08 2005
+#### Openbiz 2.0 beta is released. 
+Changs of Openbiz 2.0 beta from 2.0 alpha:
+
+* Integrate Openbiz Eclipse Designer in the release
+* Fix bugs on both Openbiz Framwork and Designer
+* Demo redone - include web calendar
+
+
+
+### July 24 2005
+#### Openbiz Eclipse plugin 0.9.0 is released. 
+See manual here [https://web.archive.org/web/20060907215647/http://www.phpopenbiz.org/document/designTool.html]. Important features include:
+
+* Wizards for creating metadata files
+* GUI interface for editing metadata files
+* Possible to integrate with PHPEclipse
+
+
+### May 31 2005 
+#### Openbiz 2.0 alpha is released. 
+Important features in Openbiz 2.0 alpha:
+
+* Complete Object Relational Database mapping (ORM)
+ - Support mapping M-1, 1-M, M-M table relationship to BizDataObj
+ - Support aggregating tables column into a BizDataObj by join
+* Fully support PHP5 new object-oriented model
+* Metadata declaration file enhancement
+* Include Web-Calendar as a shared component
+
 ### February 02 2005
 #### Openbiz 1.2 beta is released. 
 Important features in Openbiz 1.2:

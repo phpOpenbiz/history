@@ -30,15 +30,16 @@ phpOpenbiz 2.0beta Release
 ### 2005-05-31
 phpOpenbiz 2.0alpha Release
 
- (October 02 2004) Openbiz 1.1.1 is released. Important changes from Openbiz 1.1:
+### (October 02 2004) 
+Openbiz 1.1.1 is released. Important changes from Openbiz 1.1:
 
-    Metadata inheritance.
-    - Allow BizObj and BizForm metadata files inherit from parent object's metadata.
-    - Increase development productivity, make application management easy.
-    Provide no cache option for BizObj query.
+* Metadata inheritance.
+  - Allow BizObj and BizForm metadata files inherit from parent object's metadata.
+  - Increase development productivity, make application management easy.
+* Provide no cache option for BizObj query.
     - Lower the BizObj memory usage for most navigation only views.
-    HTML ComboBox and table column binding
-    Composite key support in BizObj
+* HTML ComboBox and table column binding
+* Composite key support in BizObj
 
 ### (August 06 2004) 
 Openbiz 1.1 is released. Important changes from Openbiz 1.1 beta:
@@ -52,7 +53,7 @@ Openbiz 1.1 is released. Important changes from Openbiz 1.1 beta:
 - Calendar and timestamp picker improvement
   - More compact and easier configuration by changing style sheet file and variables definitions
 
-Download Openbiz 1.1 patch to fix smarty setting and AccessValidate errors. Download Openbiz 1.1 composite key enhancement to support composite keys. 
+Download Openbiz 1.1 patch [link dead] to fix smarty setting and AccessValidate errors. Download Openbiz 1.1 composite key enhancement [link dead] to support composite keys. 
 
 ### (July 04 2004) 
 Openbiz 1.1 beta is released. Jumping from 1.02 beta to 1.1 beta is due to the significant changes:

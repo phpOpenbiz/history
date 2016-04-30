@@ -40,21 +40,82 @@ Agus Suhartono trying to revive this project on Github
 
 
 
+
 ### November 3 2005
-Oldes phpOpenbiz website and forum
-- Website : https://web.archive.org/web/20051103051156/http://www.phpopenbiz.org/document/
-- Forum : https://web.archive.org/web/20051103034255/http://p2.forumforfree.com/obhelp.html
+
+
+## PART III
+
+Ref : https://web.archive.org/web/20120702232701/http://www.phpopenbiz.org/jim/
 
 
 
 
-From [https://web.archive.org/web/20051103053400/http://www.phpopenbiz.org/document/release.html]
 
-### Oct 26 2005
+
+
+## PART II
+
+Ref : https://web.archive.org/web/20070216011157/http://www.phpopenbiz.org/jim/
+
+### February 14th, 2007
+#### New Website Launched
+With the contribution of Jim, Rocky and Andrew, PHPOpenbiz home page is redesigned with Drupal. 
+The url is still http://www.phpopenbiz.org or http://www.phpopenbiz.org/jim. 
+The new site provides a more developer friendly community. 
+You are welcome to sign on the new site and news letter.
+
+
+### February 7th, 2007
+#### 2.0 User Contributed Guides
+Members of the PHPOpenBiz community are encouraged to create additional pages in the manual and link to them here.
+
+    Extending Permissions In OB [https://web.archive.org/web/20071012162242/http://phpopenbiz.org/jim/node/93]
+    Getting Custom Data into SMARTY [https://web.archive.org/web/20071012162242/http://phpopenbiz.org/jim/node/50]
+    OpenBiz 2.2 Requirements [https://web.archive.org/web/20071012162242/http://phpopenbiz.org/jim/node/56]
+	
+Ref : https://web.archive.org/web/20071012162242/http://phpopenbiz.org/jim/node/49
+     
+### January 25th, 2007
+#### Release Openbiz 2 Tutorial
+
+Tutorial
+	* Simple tutorial - publish a single table
+	* Full tutorial - work on table relationship. PDF version and Powerpoint version.
+	
+Ref : https://web.archive.org/web/20070328232819/http://www.phpopenbiz.org/jim/manual/tutorial	
+
+### Aug 28th, 2006 
+#### Openbiz 2.2 preview is released. 
+It still works with Openbiz Eclipse plugin 0.9.6 Important features in Openbiz 2.2 preview:
+
+    Reload with Zend framework.
+    Performance enhanced with APC
+    Enhancement of BizDataObj, BizForm and BizView
+
+Ref : https://web.archive.org/web/20071012195916/http://phpopenbiz.org/jim/node/21
+
+
+### July 8th, 2006
+#### Openbiz 2.1 is released. Openbiz eclipse plugin 0.9.6 is released with 2.1. 
+Important features in Openbiz 2.1:
+
+    Supports composite keys in BizDataObj
+    Add best practice in document
+    eclipse plugin  supports creating BizForm on BizDataObj and creating child objects
+    Bug fixes
+
+Ref : https://web.archive.org/web/20070509144701/http://www.phpopenbiz.org/jim/node/20
+
+## Part 1
+
+Ref : [https://web.archive.org/web/20051103053400/http://www.phpopenbiz.org/document/release.html]
+
+### Oct 26th, 2005
 #### Openbiz 2.0 is released. Openbiz eclipse plugin 0.9.2 is released with 2.0. 
 Openbiz 2.0 includes mainly bug fixes and more details in openbiz manual. 
 
-### Sep 29 2005 
+### Sep 29th, 2005 
 #### Openbiz 2.0 RC2 is released. 
 RC2 still works with Openbiz Eclipse plugin 0.9.1. Changs of Openbiz 2.0 RC2 from 2.0 RC1:
 
@@ -65,7 +126,7 @@ RC2 still works with Openbiz Eclipse plugin 0.9.1. Changs of Openbiz 2.0 RC2 fro
 * More bugs fixed
 
 
-### Sep 15 2005
+### Sep 15th, 2005
 #### Openbiz 2.0 RC1 is released. 
 RC1 still works with Openbiz Eclipse plugin 0.9.1. Changs of Openbiz 2.0 RC1 from 2.0 beta 2:
 
@@ -77,7 +138,7 @@ RC1 still works with Openbiz Eclipse plugin 0.9.1. Changs of Openbiz 2.0 RC1 fro
 * To work this release with Openbiz Eclipse plugin 0.9.1, please download BizDataObjProfile.xml and put it under org.openbiz.metadata_0.9.1/config directory.
 
 
-### Aug 22 2005 
+### Aug 22th, 2005 
 #### Openbiz 2.0 beta 2 is released. 
 Beta 2 still works with Openbiz Eclipse plugin 0.9.1. Changs of Openbiz 2.0 beta 2 from 2.0 beta:
 
@@ -85,7 +146,7 @@ Beta 2 still works with Openbiz Eclipse plugin 0.9.1. Changs of Openbiz 2.0 beta
 * Fix bug of binding dynamic list (Table column) to comboBox
 
 
-### Aug 08 2005
+### Aug 8th, 2005
 #### Openbiz 2.0 beta is released. 
 Changs of Openbiz 2.0 beta from 2.0 alpha:
 
@@ -95,7 +156,7 @@ Changs of Openbiz 2.0 beta from 2.0 alpha:
 
 
 
-### July 24 2005
+### July 24th, 2005
 #### Openbiz Eclipse plugin 0.9.0 is released. 
 See manual here [https://web.archive.org/web/20060907215647/http://www.phpopenbiz.org/document/designTool.html]. Important features include:
 
@@ -104,7 +165,7 @@ See manual here [https://web.archive.org/web/20060907215647/http://www.phpopenbi
 * Possible to integrate with PHPEclipse
 
 
-### May 31 2005 
+### May 31th, 2005 
 #### Openbiz 2.0 alpha is released. 
 Important features in Openbiz 2.0 alpha:
 
@@ -115,7 +176,7 @@ Important features in Openbiz 2.0 alpha:
 * Metadata declaration file enhancement
 * Include Web-Calendar as a shared component
 
-### February 02 2005
+### February 2nd, 2005
 #### Openbiz 1.2 beta is released. 
 Important features in Openbiz 1.2:
 
@@ -127,7 +188,7 @@ Important features in Openbiz 1.2:
 #### Openbiz 1.1.1 fix pack is released. 
 It is mainly bug-fixing release. Please upzip the php files under openbiz_root/bin directory.
 
-### October 02 2004
+### October 2nd, 2004
 Openbiz 1.1.1 is released. Important changes from Openbiz 1.1:
 
 * Metadata inheritance.
@@ -138,7 +199,7 @@ Openbiz 1.1.1 is released. Important changes from Openbiz 1.1:
 * HTML ComboBox and table column binding
 * Composite key support in BizObj
 
-### August 06 2004
+### August 6th, 2004
 Openbiz 1.1 is released. Important changes from Openbiz 1.1 beta:
 
 - Allow users to specify 3rd party package directories in sysheader.inc file.
@@ -152,32 +213,32 @@ Openbiz 1.1 is released. Important changes from Openbiz 1.1 beta:
 
 Download Openbiz 1.1 patch [link dead] to fix smarty setting and AccessValidate errors. Download Openbiz 1.1 composite key enhancement [link dead] to support composite keys. 
 
-### July 04 2004 
+### July 4th, 2004 
 Openbiz 1.1 beta is released. Jumping from 1.02 beta to 1.1 beta is due to the significant changes:
 
 - All metadata files are organized by packages so that metadata files for big application can be stored in different directories. 
 - Easy plug-in service interface to invoke customer-specified functions.
 - Long-expected PDF report and Excel export support are added as plug-in services.
 
-### June 14 2004
+### June 14th, 2004
 Openbiz 1.02 beta is released. More efficient session management is introduced to reduce the session file size (save memory usage if you map session directory to memory). Building multiple-database application is supported.
 
-### May 22 2004
+### May 22th, 2004
 Openbiz 1.01 is released. More flexibility is added by introducing OtherSQLRule and support SQL functions in BizObj. View access control is easier to use than before. To answer customers questions, a FAQ page is available on Openbiz website.
 
-### April 24 2004
+### April 24th, 2004
 Openbiz 1.01RC is released. Compiled config files feature is introduced.
 
 Every *.xml file is compiled to *.cmp file which is a serialized array, reading config file is just unserializing *.cmp file instead of parsing it with domxml. This feature is very important to use openbiz on a web-hosting site where you don't have permission to enable php extensions. Meanwhile loading the *.cmp config file is 50% faster than parsing it with domxml. But in order to use Design Studio, you still need enable domxml php extension.
 
-### April 18 2004
+### April 18th, 2004
 2 main new features are added in B10110 release.
 
 - Openbiz windows installer works with AppServ (install Appache + PHP). It can help you install source code + Demo database and enable mmcache + domxml extensions.
 - BizFormTree class is new to present the tree hierarchy of a database table. Please see maual for detail. Meanwhile demo is rewritten to cover more features.
 - To fix a Mozilla/Netscape bug, please download the patch as well, copy the clientUtil.js to the root of openbiz.
 
-### February 29 2004
+### February 29th, 2004
 Some BizForm improvement added in B10109 to give more convenience and flexibility in writing templates. Please view change log for detail. Updating BizForm and BizObj xml schema is needed. To see the demo, please reapply gendb.sql to demo database. Design Studio performance issue is solved in B10109.
 
 ### OpenBiz 1.01 B10108  (Date unknown)
@@ -194,5 +255,4 @@ XMLHTTP is used to make RPC call since OpenBiz 1.01 B10102, RPC no longer goes t
 
 ### OpenBiz 1.01 B10101 (Date unknown)
 OpenBiz Design Studio is included in the package. Your configuration process will be enjoyable and error-proof. Please see Tutorial to understand how to use Design Studio. After install the package, open Design.htm in browser. In unix, make sure your metadata directory has write permission open for web clients. 
-
 

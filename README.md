@@ -2,7 +2,7 @@
 
 phpOpenbiz Framework also only called Openbiz Framework is great PHP Application Framework created by Rocky Swen (@rockycubi) since 2003. This framework focus on build tools to develop business application fast and easy.
 
-"Want to build a data centric business application without dirty code - PhpOpenbiz (Openbiz) is the solution! OpenBiz is a PHP application framework for professional IT developers and consultants to build web-based enterprise applications."
+	Want to build a data centric business application without dirty code - PhpOpenbiz (Openbiz) is the solution! OpenBiz is a PHP application framework for professional IT developers and consultants to build web-based enterprise applications.
 
 But now, this framework is dead. phpOpenbiz no long maintained. Last commit by Rocky Swen on Jun 14, 2014 (r5528), after that, Agus SUhartono commit litle bugfix on May 8, 2015 (r5529).
 

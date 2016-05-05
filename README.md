@@ -11,8 +11,6 @@ But now, this framework is dead. phpOpenbiz no long maintained. Last commit by R
 NOTE : 
 Openbiz LLC, lead by Jixian Wang, try to port this project to JavaScript. First initial commit by Jixian on  Feb 4, 2013. And the last commit on Jan 4, 2015. This project also dead? We don't know.
 
-Now, Agus Suhartono (@agussuhartono) that join as phpOpenbiz contributor since 2009, trying to revive this project. At least maintain this project from extinction. 
-
 This document contain history of phpOpenbiz that we are can collect.
 
 Repositoies
